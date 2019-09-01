@@ -1,0 +1,22 @@
+/* josefin sans */
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Josefin Sans Regular'), local('JosefinSans-Regular'),
+       url('./fonts/josefin-sans/josefin-sans-regular.woff2') format('woff2'),
+       url('./fonts/josefin-sans/josefin-sans-regular.woff') format('woff'),
+       url('./fonts/josefin-sans/josefin-sans-regular.ttf') format('truetype'),
+       url('./fonts/josefin-sans/josefin-sans-regular.svg#JosefinSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Josefin Sans Bold'), local('JosefinSans-Bold'),
+       url('./fonts/josefin-sans/josefin-sans-700.woff2') format('woff2'),
+       url('./fonts/josefin-sans/josefin-sans-700.woff') format('woff'),
+       url('./fonts/josefin-sans/josefin-sans-700.ttf') format('truetype'),
+       url('./fonts/josefin-sans/josefin-sans-700.svg#JosefinSans') format('svg');
+}

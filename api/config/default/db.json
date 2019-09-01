@@ -1,0 +1,8 @@
+{
+  "host": "localhost",
+  "username": "factful",
+  "password": "factful",
+  "database": "factful",
+  "dialect": "mysql",
+  "logging": true
+}

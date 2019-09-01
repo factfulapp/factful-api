@@ -1,0 +1,18 @@
+{
+  "sessionSecret": "jUt5UPdFByhImr7yZtG7",
+  "cookieSecret": "jXOSdK4424SDrg!GnzSn",
+  "sessionDriver": "file",
+  "protocol": "http",
+  "host": "dev-factful.sallai.me",
+  "port": 3000,
+  "listenPort": 3000,
+  "logging": true,
+  "cache": {
+    "defaultTimeout": 600
+  },
+  "sentry": {
+    "public": null,
+    "secret": null
+  },
+  "imgur": "b69aab6b4e1d9fb"
+}

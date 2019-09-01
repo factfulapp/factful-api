@@ -1,0 +1,14 @@
+{
+  "sessionSecret": null,
+  "cookieSecret": null,
+  "sessionDriver": "redis",
+  "protocol": "https",
+  "host": "factful.sallai.me",
+  "port": null,
+  "listenPort": 18215,
+  "sentry": {
+    "public": "fbb6ffbb642841f9bd1e5585772d71c5",
+    "secret": null
+  },
+  "imgur": null
+}
