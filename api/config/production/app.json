@@ -3,7 +3,7 @@
   "cookieSecret": null,
   "sessionDriver": "redis",
   "protocol": "https",
-  "host": "factful.sallai.me",
+  "host": "factful.hajdu.pw",
   "port": null,
   "listenPort": 18215,
   "sentry": {

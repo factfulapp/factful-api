@@ -3,7 +3,7 @@
   "cookieSecret": "jXOSdK4424SDrg!GnzSn",
   "sessionDriver": "file",
   "protocol": "http",
-  "host": "dev-factful.sallai.me",
+  "host": "dev-factful.hajdu.pw",
   "port": 3000,
   "listenPort": 3000,
   "logging": true,
